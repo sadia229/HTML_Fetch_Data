@@ -1,0 +1,4 @@
+dependencies:
+  http: ^0.14.0
+  html: ^0.16.0
+  shared_preferences: ^2.0.10
